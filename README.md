@@ -40,7 +40,7 @@ A complete demonstration of the working Interview Trainer AI is available here:
 
 **Google Drive Link:**
 
-[(Paste your Google Drive video link here.)](https://drive.google.com/file/d/1tA__FOnVgZkx0LS3aQlnqFHTPDbVa-an/view?usp=sharing)
+[(Demo video)](https://drive.google.com/file/d/1tA__FOnVgZkx0LS3aQlnqFHTPDbVa-an/view?usp=sharing)
 
 💡 **Novelty**
 
