@@ -1,12 +1,12 @@
-Interview Trainer AI
+**Interview Trainer AI**
 
-📌 Project Overview
+📌 **Project Overview**
 
 Interview Trainer AI is an AI-powered interview preparation assistant developed using IBM watsonx Orchestrate and IBM watsonx.ai. The agent conducts personalized mock interviews, evaluates user responses, provides constructive feedback, and generates an Interview Performance Report to help users improve their interview skills.
 
 The project supports HR, Technical, and Mixed interview formats and adapts questions based on the user's selected job role, experience level, and difficulty level.
 
-🚀 Features
+🚀 **Features**
 
 • Personalized mock interviews
 
@@ -34,15 +34,15 @@ The project supports HR, Technical, and Mixed interview formats and adapts quest
 
 ![System Architecture](Architecture.png)
 
-🎥 Demo Video
+🎥 **Demo Video**
 
 A complete demonstration of the working Interview Trainer AI is available here:
 
-Google Drive Link:
+**Google Drive Link:**
 
-(Paste your Google Drive video link here.)
+[(Paste your Google Drive video link here.)](https://drive.google.com/file/d/1tA__FOnVgZkx0LS3aQlnqFHTPDbVa-an/view?usp=sharing)
 
-💡 Novelty
+💡 **Novelty**
 
 • AI-powered personalized interview preparation
 
@@ -54,7 +54,7 @@ Google Drive Link:
 
 • Built using IBM watsonx Orchestrate and IBM watsonx.ai
 
-🌱 Future Scope
+🌱 **Future Scope**
 
 • Retrieval-Augmented Generation (RAG) integration
 
@@ -64,7 +64,7 @@ Google Drive Link:
 
 • Real-time analytics dashboard
 
-👤 Author
+👤 **Author**
 
  Selvadhirsana P
 
