@@ -20,7 +20,7 @@ Responsible AI-based evaluations
 
 ## 🏗️ System Architecture
 
-![System Architecture](architecture.png)
+![System Architecture](Architecture.png)
 
 🎥 Demo Video
 
