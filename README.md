@@ -17,8 +17,10 @@ Interview Performance Report
 Personalized recommendations
 Suggested study topics
 Responsible AI-based evaluations
-🏗️ System Architecture
-    Architecture.png
+
+## 🏗️ System Architecture
+
+![System Architecture](architecture.png)
 
 🎥 Demo Video
 
@@ -33,11 +35,13 @@ Dynamic interview question generation
 Intelligent answer evaluation
 Structured performance analysis
 Built using IBM watsonx Orchestrate and IBM watsonx.ai
+
 🌱 Future Scope
 Retrieval-Augmented Generation (RAG) integration
 Voice-based interview support
 Frontend integration with the AI agent
 Real-time analytics dashboard
+
 👤 Author
 
 Dhirsana
