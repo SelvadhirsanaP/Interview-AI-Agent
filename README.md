@@ -30,20 +30,20 @@ Google Drive Link:
 (Paste your Google Drive video link here.)
 
 💡 Novelty
-AI-powered personalized interview preparation
-Dynamic interview question generation
-Intelligent answer evaluation
-Structured performance analysis
-Built using IBM watsonx Orchestrate and IBM watsonx.ai
+• AI-powered personalized interview preparation
+• Dynamic interview question generation
+• Intelligent answer evaluation
+• Structured performance analysis
+• Built using IBM watsonx Orchestrate and IBM watsonx.ai
 
 🌱 Future Scope
-Retrieval-Augmented Generation (RAG) integration
-Voice-based interview support
-Frontend integration with the AI agent
-Real-time analytics dashboard
+• Retrieval-Augmented Generation (RAG) integration
+• Voice-based interview support
+• Frontend integration with the AI agent
+• Real-time analytics dashboard
 
 👤 Author
 
-Dhirsana
+ Selvadhirsana P
 
 Computer Science and Engineering Student
